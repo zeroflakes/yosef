@@ -1,5 +1,3 @@
-# B315s-936 / Modified Firmware - Project Yosef
-
 # Social Media - Accounts:
 
 [![Facebook: Account](https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico)](https://www.facebook.com/100011369547476)
