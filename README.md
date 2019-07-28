@@ -1,6 +1,6 @@
 # B315s-936 Modified Firmware - Project Yosef
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/859502?domain=https%3A%2F%2Fmastodon.social&style=social)
+![Mastodon Follow](https://mastodon.social/users/binarykorra/remote_follow)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/md5central)
 
 ( C ) - Jerome Laliag, For the Idea.
