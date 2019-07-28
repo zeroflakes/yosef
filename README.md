@@ -1,10 +1,10 @@
 # B315s-936 | Modified Firmware - Project Yosef
 
-Social Media:
+Social Media - Accounts:
 
 [![Facebook: Account](https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico)](https://www.facebook.com/100011369547476)
 
-Badges and Build Status:
+License and Build Status:
 
 [![Build Status](https://travis-ci.com/zeroflakes/projectname.svg?branch=master)](https://travis-ci.com/zeroflakes/yosef)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
