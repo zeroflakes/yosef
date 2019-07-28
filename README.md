@@ -1,19 +1,19 @@
 # B315s-936 / Modified Firmware - Project Yosef
 
-Social Media - Accounts:
+# Social Media - Accounts:
 
 [![Facebook: Account](https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico)](https://www.facebook.com/100011369547476)
 [![YouTube: Account](https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png)](https://www.youtube.com/channel/UCYbraPQtWy2k-2xGiLzl5WA?sub_confirmation=1)
 
 
-License and Build Status:
+# License and Build Status:
 
 [![Build Status](https://travis-ci.com/zeroflakes/projectname.svg?branch=master)](https://travis-ci.com/zeroflakes/yosef)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 
-Credits to the Owners:
+# Credits to the Owners:
 
 ( C ) - Jerome Laliag, For the Idea.
 
