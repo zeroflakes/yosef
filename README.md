@@ -1,5 +1,7 @@
 # B315s-936 Modified Firmware - Project Yosef
 
+![Mastodon Follow](https://img.shields.io/mastodon/follow/859502?domain=https%3A%2F%2Fmastodon.social&style=social)
+
 ( C ) - Jerome Laliag, For the Idea.
 
 He founded that expanding the Router Linux Embedded Capabilities can open gateways for OpenVPN, ShadowSocks, and STunnel. This way the VPN Router can have the ability to use Native Linux Commands under the same Idea as is on the PC based applications. The idea behind Yosef Project is my Sudo Name. I will recreate the VPN Router Modems with another agenda as this. Henceforth allowing users to have a Friendly based UI / UX Router VPNs that can connect freely without hassle.
