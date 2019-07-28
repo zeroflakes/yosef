@@ -1,4 +1,4 @@
-# B315s-936 | Modified Firmware - Project Yosef
+# B315s-936 / Modified Firmware - Project Yosef
 
 Social Media - Accounts:
 
