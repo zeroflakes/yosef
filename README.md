@@ -1,6 +1,6 @@
 # B315s-936 Modified Firmware - Project Yosef
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/859502?domain=https://mastodon.social&style=social)
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 
 ( C ) - Jerome Laliag, For the Idea.
 
