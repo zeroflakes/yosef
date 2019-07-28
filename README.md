@@ -1,6 +1,6 @@
 # B315s-936 Modified Firmware - Project Yosef
 
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+[![Build Status](https://travis-ci.com/zeroflakes/projectname.svg?branch=master)](https://travis-ci.com/zeroflakes/yosef)
 
 ( C ) - Jerome Laliag, For the Idea.
 
