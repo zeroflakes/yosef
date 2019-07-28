@@ -1,7 +1,7 @@
 # B315s-936 Modified Firmware - Project Yosef
 
 [![Build Status](https://travis-ci.com/zeroflakes/projectname.svg?branch=master)](https://travis-ci.com/zeroflakes/yosef)
-[![License: Zero](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ( C ) - Jerome Laliag, For the Idea.
