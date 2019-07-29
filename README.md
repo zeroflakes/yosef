@@ -1,6 +1,5 @@
 # Social Media - Accounts:
 
-[![Facebook: Account](https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico)](https://www.facebook.com/100011369547476)
 [![YouTube: Account](https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png)](https://www.youtube.com/channel/UCYbraPQtWy2k-2xGiLzl5WA?sub_confirmation=1)
 
 
